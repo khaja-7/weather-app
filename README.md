@@ -32,7 +32,4 @@ You can type any city in the search bar and press enter to check the current wea
 3. Weather data (temperature, description, humidity, etc.) is returned.
 4. The results are displayed dynamically on the page.
 
----
-
-Feel free to fork or clone the repository if you’d like to build on top of it 🔧
 
